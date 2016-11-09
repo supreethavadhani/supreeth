@@ -31,15 +31,7 @@ margin-top:auto;
   
  }
 
-/*HEADER STYLING*/
-h1{
-   
-   font : 9em/150% arial black;
-   color:#191919;
-   background-image:url(bb.jpg);
-   align:centre;
- 
-  }
+
 div{ 
      color:#2E4053;
      background:none;
@@ -48,8 +40,8 @@ div{
 #ulr {
   display:flex;
    
-    padding: 0;
-margin-top:;
+    padding:0 auto;
+margin-top:0 auto;
 
 
   width: 25%;
@@ -67,7 +59,7 @@ height:100%;
   }
 
 #lir {
-font : 1.2em/150% arial black;
+font : 1.9em/150% arial black;
 color;
 margin-right:4.5em;
 margin-left: 0.5em;
