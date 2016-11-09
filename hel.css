@@ -79,7 +79,7 @@ margin-left: 0.5em;
 }
 
 a {
-  font-size:0.9em;
+  font-size:auto;
   
   text-decoration: none;
   margin-left:auto;
